@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf_losing0000" x="0" y="0" width="132" height="94"/>
+	<SubTexture name="bf_losing0001" x="0" y="0" width="132" height="94"/>
+	<SubTexture name="bf_losing0002" x="132" y="0" width="132" height="94"/>
+	<SubTexture name="bf_losing0003" x="132" y="0" width="132" height="94"/>
+	<SubTexture name="bf_losing0004" x="264" y="0" width="132" height="94"/>
+	<SubTexture name="bf_losing0005" x="264" y="0" width="132" height="94"/>
+	<SubTexture name="bf_losing0006" x="0" y="94" width="132" height="94"/>
+	<SubTexture name="bf_losing0007" x="0" y="94" width="132" height="94"/>
+	<SubTexture name="bf_neutral0000" x="132" y="94" width="132" height="94"/>
+	<SubTexture name="bf_neutral0001" x="132" y="94" width="132" height="94"/>
+	<SubTexture name="bf_neutral0002" x="264" y="94" width="132" height="94"/>
+	<SubTexture name="bf_neutral0003" x="264" y="94" width="132" height="94"/>
+	<SubTexture name="bf_neutral0004" x="0" y="188" width="132" height="94"/>
+	<SubTexture name="bf_neutral0005" x="0" y="188" width="132" height="94"/>
+	<SubTexture name="bf_neutral0006" x="132" y="188" width="132" height="94"/>
+	<SubTexture name="bf_neutral0007" x="132" y="188" width="132" height="94"/>
+</TextureAtlas>

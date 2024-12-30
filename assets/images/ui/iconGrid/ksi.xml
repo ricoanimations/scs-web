@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ksi.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ksi_losing0000" x="0" y="0" width="132" height="116"/>
+	<SubTexture name="ksi_losing0001" x="132" y="0" width="132" height="116"/>
+	<SubTexture name="ksi_losing0002" x="264" y="0" width="132" height="116"/>
+	<SubTexture name="ksi_losing0003" x="396" y="0" width="132" height="116"/>
+	<SubTexture name="ksi_losing0004" x="528" y="0" width="132" height="116"/>
+	<SubTexture name="ksi_losing0005" x="660" y="0" width="132" height="116"/>
+	<SubTexture name="ksi_losing0006" x="792" y="0" width="132" height="116"/>
+	<SubTexture name="ksi_losing0007" x="0" y="116" width="132" height="116"/>
+	<SubTexture name="ksi_neutral0000" x="132" y="116" width="150" height="151"/>
+	<SubTexture name="ksi_neutral0001" x="282" y="116" width="150" height="151"/>
+	<SubTexture name="ksi_neutral0002" x="432" y="116" width="150" height="151"/>
+	<SubTexture name="ksi_neutral0003" x="582" y="116" width="150" height="151"/>
+	<SubTexture name="ksi_neutral0004" x="732" y="116" width="150" height="151"/>
+	<SubTexture name="ksi_neutral0005" x="582" y="116" width="150" height="151"/>
+	<SubTexture name="ksi_neutral0006" x="582" y="116" width="150" height="151"/>
+	<SubTexture name="ksi_neutral0007" x="432" y="116" width="150" height="151"/>
+	<SubTexture name="ksi_neutral0008" x="282" y="116" width="150" height="151"/>
+</TextureAtlas>

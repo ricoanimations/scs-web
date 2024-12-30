@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dantdm.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dantdm_losing0000" x="0" y="0" width="98" height="150"/>
+	<SubTexture name="dantdm_losing0001" x="98" y="0" width="98" height="150"/>
+	<SubTexture name="dantdm_losing0002" x="196" y="0" width="98" height="150"/>
+	<SubTexture name="dantdm_losing0003" x="294" y="0" width="98" height="150"/>
+	<SubTexture name="dantdm_losing0004" x="392" y="0" width="98" height="150"/>
+	<SubTexture name="dantdm_losing0005" x="490" y="0" width="98" height="150"/>
+	<SubTexture name="dantdm_losing0006" x="588" y="0" width="98" height="150"/>
+	<SubTexture name="dantdm_neutral0000" x="0" y="150" width="494" height="257"/>
+	<SubTexture name="dantdm_neutral0001" x="0" y="150" width="494" height="257"/>
+	<SubTexture name="dantdm_neutral0002" x="494" y="150" width="494" height="257"/>
+	<SubTexture name="dantdm_neutral0003" x="0" y="407" width="494" height="257"/>
+	<SubTexture name="dantdm_neutral0004" x="494" y="407" width="494" height="257"/>
+	<SubTexture name="dantdm_neutral0005" x="0" y="664" width="494" height="257"/>
+	<SubTexture name="dantdm_neutral0006" x="494" y="407" width="494" height="257"/>
+</TextureAtlas>

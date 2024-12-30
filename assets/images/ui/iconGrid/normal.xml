@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="normal.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="normal_losing0000" x="0" y="0" width="150" height="104" frameX="0" frameY="-1" frameWidth="150" frameHeight="108"/>
+	<SubTexture name="normal_losing0001" x="150" y="0" width="150" height="86" frameX="0" frameY="-10" frameWidth="150" frameHeight="108"/>
+	<SubTexture name="normal_losing0002" x="300" y="0" width="150" height="94" frameX="0" frameY="-6" frameWidth="150" frameHeight="108"/>
+	<SubTexture name="normal_losing0003" x="0" y="104" width="150" height="73" frameX="0" frameY="-17" frameWidth="150" frameHeight="108"/>
+	<SubTexture name="normal_losing0004" x="150" y="104" width="150" height="108"/>
+	<SubTexture name="normal_losing0005" x="300" y="104" width="150" height="97" frameX="0" frameY="-5" frameWidth="150" frameHeight="108"/>
+	<SubTexture name="normal_losing0006" x="0" y="212" width="150" height="78" frameX="0" frameY="-15" frameWidth="150" frameHeight="108"/>
+	<SubTexture name="normal_losing0007" x="150" y="212" width="150" height="102" frameX="0" frameY="-3" frameWidth="150" frameHeight="108"/>
+	<SubTexture name="normal_neutral0000" x="300" y="212" width="150" height="67" frameX="0" frameY="-31" frameWidth="150" frameHeight="98"/>
+	<SubTexture name="normal_neutral0001" x="0" y="314" width="124" height="82" frameX="-13" frameY="-16" frameWidth="150" frameHeight="98"/>
+	<SubTexture name="normal_neutral0002" x="124" y="314" width="99" height="93" frameX="-26" frameY="-5" frameWidth="150" frameHeight="98"/>
+	<SubTexture name="normal_neutral0003" x="223" y="314" width="81" height="98" frameX="-35" frameY="0" frameWidth="150" frameHeight="98"/>
+</TextureAtlas>

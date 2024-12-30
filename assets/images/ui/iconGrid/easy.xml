@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="easy.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="easy_losing0000" x="0" y="0" width="130" height="100" frameX="0" frameY="0" frameWidth="130" frameHeight="101"/>
+	<SubTexture name="easy_losing0001" x="130" y="0" width="130" height="96" frameX="0" frameY="-4" frameWidth="130" frameHeight="101"/>
+	<SubTexture name="easy_losing0002" x="260" y="0" width="130" height="91" frameX="0" frameY="-10" frameWidth="130" frameHeight="101"/>
+	<SubTexture name="easy_losing0003" x="0" y="100" width="130" height="79" frameX="0" frameY="-22" frameWidth="130" frameHeight="101"/>
+	<SubTexture name="easy_losing0004" x="130" y="100" width="130" height="63" frameX="0" frameY="-38" frameWidth="130" frameHeight="101"/>
+	<SubTexture name="easy_losing0005" x="0" y="100" width="130" height="79" frameX="0" frameY="-22" frameWidth="130" frameHeight="101"/>
+	<SubTexture name="easy_losing0006" x="260" y="0" width="130" height="91" frameX="0" frameY="-10" frameWidth="130" frameHeight="101"/>
+	<SubTexture name="easy_losing0007" x="130" y="0" width="130" height="96" frameX="0" frameY="-4" frameWidth="130" frameHeight="101"/>
+	<SubTexture name="easy_neutral0000" x="260" y="100" width="150" height="60" frameX="0" frameY="-37" frameWidth="150" frameHeight="98"/>
+	<SubTexture name="easy_neutral0001" x="0" y="179" width="123" height="77" frameX="-14" frameY="-21" frameWidth="150" frameHeight="98"/>
+	<SubTexture name="easy_neutral0002" x="123" y="179" width="102" height="90" frameX="-25" frameY="-7" frameWidth="150" frameHeight="98"/>
+	<SubTexture name="easy_neutral0003" x="225" y="179" width="86" height="97" frameX="-33" frameY="0" frameWidth="150" frameHeight="98"/>
+</TextureAtlas>
