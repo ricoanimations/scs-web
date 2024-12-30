@@ -1,0 +1,12 @@
+bf:bf:#31b0d1
+bf-pixel:bf-pixel:#31b0d1
+gf:gf:#a5004d
+squid:squid:#bbdfd1
+amogus:amogus:#31ffea
+lankybox:lankybox:#ffdee7
+tristan:tristan:#ff130f
+bambi:bambi:#25bf37
+sponge:sponge:#fff76b
+dave:dave:#0f5fff
+dave-annoyed:dave-annoyed:#0f5fff
+skibidi-dave:skibidi-dave:#0f5fff
